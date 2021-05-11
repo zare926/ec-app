@@ -13,4 +13,4 @@ export const UsersReducer = (state = initialState.users, action) => {
   }
 }
 
-// export default UsersReducer
+export default UsersReducer
